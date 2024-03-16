@@ -1,6 +1,3 @@
-Name: Daniel Chorev
-unikey: dcho3009
- 
 File operations explanation:
 My program firstly seeks to end the end of the file to find the file size.
 Then, I use a loop for the size of the file and read in 1 byte at a time for 4 bytes into an array.
